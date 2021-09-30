@@ -12,7 +12,7 @@ Using tableau 7 different visualizations were made and different inputs were ana
 
 There was an error trying to convert gender in integer form to Strings in Tableau as per the following image:
 
-![Error](/Gender error.jpg)
+![Error](/Gender error.PNG)
 
 - There was a total of 2,344,224 trips in the month of August.
 

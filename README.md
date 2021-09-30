@@ -10,6 +10,10 @@ The purpose of this analysis is to evaluate the feasibility of making an investm
 
 Using tableau 7 different visualizations were made and different inputs were analyzed. 
 
+There was an error trying to convert gender in integer form to Strings in Tableau as per the following image:
+
+![Error](/Gender error.jpg)
+
 - There was a total of 2,344,224 trips in the month of August.
 
 - From the total trips 1,900,359 users subscribe to the company and 443,865 users are customers.
